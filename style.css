@@ -1,0 +1,27 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&family=Roboto+Slab&display=swap" rel="stylesheet">
+
+
+p{ font-size: 16px; color: darkblue; background-color: wheat; display: table; margin-left:auto; margin-right:auto;}
+
+#mycities{ color: orangered; }
+.city{ color: olive;}
+h1{font-family: 'Lobster', cursive; color: white; font-size: 32px; }
+h2{font-family: 'Lobster', cursive; color: lime; font-size: 26px;}
+body{font-family: 'Lobster', cursive; background-color:IndianRed ; text-align: center; font-family: 'Roboto Slab', serif;}
+button {font-family: 'Lobster', cursive;
+color: rgba(255, 255, 255, 0.8);
+  background: rgb(145, 92, 182);
+  padding: 15px 40px;
+  border-radius: 4px;
+  font-weight: normal;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+}
+.glow-button:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 2);
+}
+/*rgba(145, 92, 182, .4)*/
+h3{font-family: 'Lobster', cursive; color: white; font-size: 20px;}
